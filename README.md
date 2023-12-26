@@ -15,3 +15,6 @@ Import Database File (task.sql.gz)
 DB_DATABASE=Task
 DB_USERNAME=root
 DB_PASSWORD=root
+
+
+Please find the all-files.zip for complete files including vendor and node_modules folders
